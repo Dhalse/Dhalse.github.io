@@ -6,8 +6,8 @@ there are definitely some properties you should add!*/
       height: 100%;
     }
     body {
-       width: 10000px;
-       height: 120%;
+      /* width: 10000px;
+       height: 120%;*/
     }
 
     header {
